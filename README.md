@@ -12,5 +12,5 @@
 | No.     |Title       | Solution |Difficult|Tag     |
 | :-------|:----------:|:------:  |:-------:|:------:|
 | 001     |[Two Sum](https://leetcode.com/problems/two-sum/description/)     |[C++](https://github.com/arvinlee2015/LeetCode/edit/master/Two%20Sum/two_sum.cpp)   |Easy     |Array     |
-| 002     |            |          |         |Array   |
-| 003     |            |          |         |Array   |
+| 002     |            |          |         |        |
+| 003     |            |          |         |        |
