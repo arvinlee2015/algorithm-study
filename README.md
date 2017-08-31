@@ -6,8 +6,11 @@
 **计划：** 每天一个题目，按照题目的算法类别进行学习
 
 
-| No.     |Title       | Tag    |Difficult|Solution|
-| :-------|:----------:|:------:|:-------:|:------:|
-| 001     |[Two Sum](https://leetcode.com/problems/two-sum/description/)     |Array   |Easy     |C++     |
-| 002     |            |        |         |C++     |
-| 003     |            |        |         |C++     |
+
+
+
+| No.     |Title       | Solution |Difficult|Tag     |
+| :-------|:----------:|:------:  |:-------:|:------:|
+| 001     |[Two Sum](https://leetcode.com/problems/two-sum/description/)     |[C++](https://github.com/arvinlee2015/LeetCode/edit/master/Two%20Sum/two_sum.cpp)   |Easy     |Array     |
+| 002     |            |          |         |Array   |
+| 003     |            |          |         |Array   |
