@@ -1,6 +1,10 @@
-#LeetCode学习
--------
 
-> 该项目主要用于记录LeetCode学习的记录以及思想
+**Given an array of integers, return indices of the two numbers such that they add up to a specific target.**
 
-**计划：** 每天一个题目，按照题目的算法类别进行学习
+**You may assume that each input would have exactly one solution, and you may not use the same element twice.**
+--------
+`Example:`
+> Given nums = [2, 7, 11, 15], target = 9,
+
+> Because nums[0] + nums[1] = 2 + 7 = 9,
+> return [0, 1].
