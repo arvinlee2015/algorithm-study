@@ -11,6 +11,8 @@
 
 ### 1. 算法导图
 
+
+
 ![算法导图](./images/853467-20190220213844932-1896554215.png)
 
 
@@ -24,6 +26,6 @@
 | No.  | Title                                                        | Solution                                                     | Difficult | Tag                 |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------- |
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/arvinlee2015/LeetCode/edit/master/Two%20Sum/two_sum.cpp) | Easy      | Array               |
-| 1402 | [Reducing Dishes](LeetCode/dynamic_programming/1402-reducing-dishes.md)                                              | Python3                                                      | Medium    | Dynamic Programming |
-| 003  |                                                              |                                                              |           |                     |
+| 1402 | [Reducing Dishes](LeetCode/dynamic_programming/1402-reducing-dishes.md) | Python3                                                      | Medium    | Dynamic Programming |
+|      |                                                              |                                                              |           |                     |
 
