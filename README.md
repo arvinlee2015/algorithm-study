@@ -1,5 +1,7 @@
 # 算法学习
 
+[![Travis](https://img.shields.io/badge/Language-Python3-brightgreen)]()
+[![Travis](https://img.shields.io/badge/-LeetCode-yellowgreen)]()
 
 > 该项目主要用于记录个人算法学习的记录以及思想（记录格式参考一些开源的项目）
 
