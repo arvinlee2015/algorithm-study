@@ -25,9 +25,10 @@
 
 #### 2.1 Dynamic Programming
 
-| No.  | Title                                                        | Solution                                                     | Difficult | Tag                 |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------- |
-| 001  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/arvinlee2015/LeetCode/edit/master/Two%20Sum/two_sum.cpp) | Easy      | Array               |
-| 1402 | [Reducing Dishes](LeetCode/dynamic_programming/1402-reducing-dishes.md) | Python3                                                      | Medium    | Dynamic Programming |
-|      |                                                              |                                                              |           |                     |
+| No.  | Title                                                        | Difficult | Tag                 | Solution |
+| ---- | ------------------------------------------------------------ | --------- | ------------------- | -------- |
+| 001  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy      | Array               | C++      |
+|      |                                                              |           |                     |          |
+| 1402 | [Reducing Dishes](LeetCode/dynamic_programming/1402.reducing-dishes.md) | Medium    | Dynamic Programming | Python3  |
+| 62   | [Unique Paths](LeetCode/dynamic_programming/62.unique-paths.md) | Medium    | Dyanmic Programming | Python3  |
 
