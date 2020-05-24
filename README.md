@@ -23,12 +23,14 @@
 
 **计划：** 每天一个题目，按照题目的算法类别进行学习
 
-#### 2.1 Dynamic Programming
-
 | No.  | Title                                                        | Difficult | Tag                 | Solution |
 | ---- | ------------------------------------------------------------ | --------- | ------------------- | -------- |
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy      | Array               | C++      |
 |      |                                                              |           |                     |          |
 | 1402 | [Reducing Dishes](LeetCode/dynamic_programming/1402.reducing-dishes.md) | Medium    | Dynamic Programming | Python3  |
 | 62   | [Unique Paths](LeetCode/dynamic_programming/62.unique-paths.md) | Medium    | Dyanmic Programming | Python3  |
+|      |                                                              |           |                     |          |
+| 94   | [Binary Tree Inorder Traversal](LeetCode/tree/94.Binary-Tree-Inorder-Traversal.md) | Medium    | Tree                | Python3  |
+
+
 
