@@ -31,6 +31,9 @@
 | 62   | [Unique Paths](LeetCode/dynamic_programming/62.unique-paths.md) | Medium    | Dyanmic Programming | Python3  |
 |      |                                                              |           |                     |          |
 | 94   | [Binary Tree Inorder Traversal](LeetCode/tree/94.Binary-Tree-Inorder-Traversal.md) | Medium    | Tree                | Python3  |
+| 102  | [Binary Tree Level Order Traversal](LeetCode/tree/102.Binary-Tree-Level-Order-Traversal.md) | Medium    | Tree                | Python3  |
+| 144  | [Binary Tree Preorder Traversal](LeetCode/tree/144.Binary-Tree-Preorder-Traversal.md) | Medium    | Tree                | Python3  |
+| 145  | [Binary Tree Postorder Traversal](LeetCode/tree/145.Binary-Tree-Postorder-Traversal.md) | Medium    | Tree                | Python3  |
 
 
 
